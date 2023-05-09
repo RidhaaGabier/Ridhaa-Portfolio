@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* About Section */
+.portrait {
+    height: 500px;
+    width: 500px;
+    object-fit: contain;
+}
+.landing-image{
+    background-image: url(../assets/images/OUR-WORLD-2019-web-272.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 93vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 0;
+}
